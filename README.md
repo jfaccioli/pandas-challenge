@@ -1,8 +1,6 @@
 # A data analysis using python and pandas to showcase trends in school performance.
 
 
-## Option 2: PyCitySchools
-
 ![Education](Images/education.png)
 
 
