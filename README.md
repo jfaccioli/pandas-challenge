@@ -3,6 +3,7 @@
 
 ![Education](Images/education.png)
 
+## A data analysis to showcase trends in school performance using Pandas.
 
 ### District Summary
 
